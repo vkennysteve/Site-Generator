@@ -1,4 +1,5 @@
 title: Your awesome title
+theme: "Minima"
 author: Victor Kennysteve
 email: victorkennysteve@domain.com
 description: Portfolio: Home - vkennysteve> # this means to ignore newlines until "baseurl:"
